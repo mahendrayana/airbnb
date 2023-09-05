@@ -1,7 +1,7 @@
 # Airbnb Data Analytics With Bigquery, Google Spreadsheet, and Tableau
 
 
-![Tableau Dashboard](Images\Dashboard.png)
+![Tableau Dashboard](Images/Dashboard.png)
 
 interactive version could be accessed at:
 https://public.tableau.com/views/AirbnbCleaningServiceMarketMapping/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
